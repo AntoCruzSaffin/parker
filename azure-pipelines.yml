@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool: Saffin
+pool: 
+   name: 'Saffin'
 
 steps:
 - task: Maven@4
